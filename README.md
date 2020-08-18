@@ -1,0 +1,2 @@
+# Predicting-Salary-of-an-Employee-w.r.t-number-of-years-of-Experience-using-Simple-Linear-Regression
+In this Data-Science project as a beginner in Machine Learning field, I have created a model using "Simple Linear Regression" to predict the salary of an employee with respect to number of years of experience in a particular company.         This project is done on Google-Colab as some libraries are pre-installed,so we just have to import it. 
